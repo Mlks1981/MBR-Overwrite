@@ -32,4 +32,4 @@
 *.app
 
 # Ignore build folder
-build/*
+x64/*
